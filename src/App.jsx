@@ -6,7 +6,7 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <>Hello World of React
+    <>Hello World of Reacts
     </>
   )
 }
