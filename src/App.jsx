@@ -5,10 +5,10 @@ function App() {
     <>
       <main id="main__content">
         <section>
-          <div>
-            <img src="" alt="" />
+          <nav>
+            <img src="/src/assets/images/logo.svg" alt="" />
             <h1>Base Apparel</h1>
-          </div>
+          </nav>
           <div>
             <h2><span>We&apos;re</span>coming soon</h2>
             <p>Hello fellow shoppers! We&apos;re currently building our new fashion store. 
