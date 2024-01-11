@@ -20,7 +20,7 @@ function App() {
           </div>
         </section>
         <section> 
-          <div><img src="" alt="" /></div>
+          <div><img src="/src/assets/images/hero-desktop.jpg" alt="" /></div>
         </section>
       </main>
       <Footer />
