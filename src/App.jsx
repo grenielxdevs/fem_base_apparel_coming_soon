@@ -3,7 +3,7 @@ import Footer from './components/Footer';
 function App() {
   return (
     <>
-      <main>
+      <main id="main__content">
         <section>
           <div>
             <img src="" alt="" />

@@ -8,6 +8,12 @@ body {
     font-size: 16px;
 }
 
+/* Main Styles */
+#main__content {
+    display: flex;
+}
+
+/* Footer Styles */
 .attribution { 
     font-size: 11px; 
     text-align: center; 
