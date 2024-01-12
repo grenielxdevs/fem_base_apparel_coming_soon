@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <main id="main__content">
-        <section>
+        <section className="main__content-details">
           <nav>
             <img src="/src/assets/images/logo.svg" alt="" />
             <h1>Base Apparel</h1>
@@ -19,7 +19,7 @@ function App() {
             </div>
           </div>
         </section>
-        <section> 
+        <section className="main__content-image"> 
           <div><img src="/src/assets/images/hero-desktop.jpg" alt="" /></div>
         </section>
       </main>
