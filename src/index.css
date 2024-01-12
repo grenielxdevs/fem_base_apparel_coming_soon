@@ -11,6 +11,8 @@ body {
 /* Main Styles */
 #main__content {
     display: flex;
+    flex-direction: row;
+    width: 100%;
 }
 
 /* Footer Styles */
