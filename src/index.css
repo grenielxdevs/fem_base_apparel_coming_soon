@@ -15,7 +15,7 @@ body {
     width: 100%;
 }
 
-#main__content .main__content-details {
+#main__content .content__main {
     display: flex;
     flex-direction: column;
 }
